@@ -2,7 +2,7 @@
 import yfinance as yf
 import pandas as pd
 
-# Nifty 200 stock tickers
+# Nifty 200 stock tickers (sample list)
 NIFTY_200_STOCKS = [
     'ACC.NS', 'ASHOKLEY.NS', 'ASIANPAINT.NS', 'BAJAJHLDNG.NS', 'BHARATFORG.NS', 'BLUESTARCO.NS',
     'BRITANNIA.NS', 'EXIDEIND.NS', 'CIPLA.NS', 'COLPAL.NS', 'COROMANDEL.NS', 'CGPOWER.NS',
